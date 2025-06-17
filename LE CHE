@@ -141,7 +141,18 @@
               2022
             </td>
             <td class="news_details">
-              One <a href="#gavatar">papers</a> accepted to <span class="news_conf">ACM MM 2022</span>.
+              One <a href="#BeyondGame">paper</a> accepted to <span class="news_conf">Neurocomputing</span>.
+            </td>
+          </tr>
+          <tr>
+            <td class="news_date1">
+              Oct.
+            </td>
+            <td class="news_date2">
+              2022
+            </td>
+            <td class="news_details">
+              One <a href="#DiverseSamp">paper</a> accepted to <span class="news_conf">ACM MM 2022</span>.
             </td>
           </tr>
           <tr>
@@ -152,7 +163,7 @@
               2022
             </td>
             <td class="news_details">
-              One <a href="#physdiff">papers</a> accepted to <span class="news_conf">CISCE 2022</span>.
+              One <a href="#SoccerRobot">paper</a> accepted to <span class="news_conf">CISCE 2022</span>.
             </td>
           </tr>
           <tr>
@@ -204,6 +215,33 @@
         </tbody></table>
 
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+          <tr class="paper_entry" id="BeyondGame">
+            <td class="paper_tb">
+              <div class="tb_one">
+                <div class="tb_two">
+                  <img src="data/misc/svimo.png">
+                </div>
+              </div>
+            </td>
+            <td class="paper_details">
+              <a target="_blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0925231225013116">
+                <papertitle>Beyond game environments: Evolutionary algorithms with parameter space noise for task-oriented dialogue policy exploration</papertitle>
+              </a>
+              <br>
+              <a class="wrap" target="_blank" href="https://github.com/xqxscut/">Qingxin Xiao</a>, 
+              <a class="wrap" target="_blank" href="https://scholar.google.com/citations?user=E_2PWxQAAAAJ">Yangyang Zhao</a>, 
+              <strong class="wrap">Lingwei Dang</strong>, 
+              <a class="wrap" target="_blank" href="https://github.com/photon-git">Yun Hao</a><sup>*</sup>, 
+              <a class="wrap" target="_blank" href="https://orcid.org/0009-0005-3597-7545">Le Che</a>, 
+              <a class="wrap" target="_blank" href="https://scholar.google.com/citations?user=n6e_2IgAAAAJ">Qingyao Wu</a>
+              <br>
+              <span class="paper_conf">Neurocomputing</span>, <span class="paper_year">2025</span>, IF 5.5
+              <br>
+              <a class="wrap" target="_blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0925231225013116"><i class="fa fa-globe"></i>Paper</a> | 
+              <a class="wrap" target="_blank" href="data/misc/XX"><i class="fa fa-file-pdf"></i>PDF</a>
+            </td>
+          </tr>
           
           
           <tr class="paper_entry" id="SViMo">
