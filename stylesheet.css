@@ -228,6 +228,17 @@ name {
   line-height: 22px;
 }
 
+/* Paper authors only (exclude project/arxiv/video/code which have icons) */
+.paper_details a.wrap:not(:has(i)):not(:has(svg)) {
+  color: #4a4a4a;
+  border-bottom: 1px dotted #9a9a9a;
+}
+.paper_details a.wrap:not(:has(i)):not(:has(svg)):focus,
+.paper_details a.wrap:not(:has(i)):not(:has(svg)):hover {
+  color: #f09228;
+  border-bottom-color: #f09228;
+}
+
 @media (max-width: 675px) {
   .paper_entry td {
     display: block;
